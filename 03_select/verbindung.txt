@@ -1,0 +1,1 @@
+C:\Users\JTHO149\Desktop\SQL_WB>"C:\Users\JTHO149\.dbclient\dependency\mysql\mysql.exe" -h 206.189.62.5 -P 3306 -u remote_user -p"xAcb12#@rem0te"  mydb
